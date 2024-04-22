@@ -1,0 +1,1 @@
+This a simple form made with HTML/CSS and pure JS for the ODIN Project. 
